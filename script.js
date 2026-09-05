@@ -1,7 +1,7 @@
 // Nidhi Suraksha Group website configuration
 // Paste the EMBED URL copied from Google Forms into GOOGLE_FORM_EMBED_URL.
 // Example format: https://docs.google.com/forms/d/e/FORM_ID/viewform?embedded=true
-const GOOGLE_FORM_EMBED_URL = "";
+const GOOGLE_FORM_EMBED_URL = "https://forms.gle/MCUQM7hdDtSf1wGB8";
 
 document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("year").textContent = new Date().getFullYear();
