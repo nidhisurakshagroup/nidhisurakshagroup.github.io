@@ -24,7 +24,7 @@
    GOOGLE FORM
    ============================================================ */
 
-const GOOGLE_FORM_EMBED_URL = "";
+const GOOGLE_FORM_EMBED_URL = "https://forms.gle/enzsDAiyrrnYqM847";
 
 
 /* ============================================================
