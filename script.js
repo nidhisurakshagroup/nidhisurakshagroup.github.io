@@ -24,7 +24,7 @@
    GOOGLE FORM
    ============================================================ */
 
-const GOOGLE_FORM_EMBED_URL = "https://forms.gle/enzsDAiyrrnYqM847";
+const GOOGLE_FORM_EMBED_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdyzeGXUeiWYOaHANxEev4s2WZWgEIBfIybE1p4jvRd4GXZsg/viewform?usp=header";
 
 
 /* ============================================================
@@ -43,21 +43,21 @@ const GOOGLE_FORM_EMBED_URL = "https://forms.gle/enzsDAiyrrnYqM847";
 ============================================================ */
 
 const PARTNERS = [
-  { name: "Add Partner 01", meta: "Insurance Provider" },
-  { name: "Add Partner 02", meta: "Insurance Provider" },
-  { name: "Add Partner 03", meta: "Insurance Provider" },
-  { name: "Add Partner 04", meta: "Insurance Provider" },
-  { name: "Add Partner 05", meta: "Insurance Provider" },
-  { name: "Add Partner 06", meta: "Insurance Provider" },
-  { name: "Add Partner 07", meta: "Insurance Provider" },
-  { name: "Add Partner 08", meta: "Insurance Provider" },
-  { name: "Add Partner 09", meta: "Insurance Provider" },
-  { name: "Add Partner 10", meta: "Insurance Provider" },
-  { name: "Add Partner 11", meta: "Insurance Provider" },
-  { name: "Add Partner 12", meta: "Insurance Provider" },
-  { name: "Add Partner 13", meta: "Insurance Provider" },
-  { name: "Add Partner 14", meta: "Insurance Provider" },
-  { name: "Add Partner 15", meta: "Insurance Provider" }
+  { name: "ICICI", meta: "Insurance Provider" },
+  { name: "HDFC ERGO", meta: "Insurance Provider" },
+  { name: "Niva Bupa", meta: "Insurance Provider" },
+  { name: "LIC ", meta: "Insurance Provider" },
+  { name: "Digit", meta: "Insurance Provider" },
+  { name: "National Insurance", meta: "Insurance Provider" },
+  { name: "United India Insurance", meta: "Insurance Provider" },
+  { name: "AxIS Max Insurance", meta: "Insurance Provider" },
+  { name: "IFFCO-TOKIO", meta: "Insurance Provider" },
+  { name: "The New India Assurance", meta: "Insurance Provider" },
+  { name: "SBI Life", meta: "Insurance Provider" },
+  { name: "Shri Ram Finance", meta: "Insurance Provider" },
+  { name: "TATA AIA", meta: "Insurance Provider" },
+  { name: "Aditya Brila Capital", meta: "Insurance Provider" },
+  { name: "AVIA Life Insurance", meta: "Insurance Provider" }
 ];
 
 
